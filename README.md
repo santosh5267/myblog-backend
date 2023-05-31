@@ -1,5 +1,5 @@
 
-insert articces via mongoshell
+#insert articces via mongoshell
 ------------------------------------
 db.articles.insertMany([{
 ... ...     name: 'learn-react',
